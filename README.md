@@ -1,5 +1,12 @@
 # ljscrapper
 LiveJournal parser for article titles, tags, dates by articles' ids.
+
+## Dependencies
+- Python 3+
+- requests
+- jinja2
+- BeautifulSoup
+
 ## Usage
 ```usage: LJScrapper CLI tool [-h] [--input_file INPUT_FILE] --output_file OUTPUT_FILE [--period PERIOD] blogname
 
