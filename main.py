@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from ljscrapper import *
 #import json_to_html
 import os
